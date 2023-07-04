@@ -1,17 +1,19 @@
 <h1 align="center">Hi 👀, I'm Pablo Cano</h1>
 <h3 align="center">A passionate Android Developer from Spain</h3>
 
-- 🔭 I’m currently working on [ZonaBlava](https://github.com/xicotet/ZonaBlava), a cutting-edge Android app that streamlines regulated parking management by enabling users to effortlessly acquire virtual parking tickets on their mobile devices, eliminating the hassle of physical parking meters.
+- 🔭 I’m currently working on [ZonaBlava](https://github.com/xicotet/ZonaBlava), a cutting-edge Android app that streamlines regulated parking management by enabling users to **effortlessly acquire virtual parking tickets** on their mobile devices, eliminating the hassle of physical parking meters.
 
-- 🤝 I’m looking for help with [MeteoApp-Oratge](https://github.com/xicotet/MeteoApp-Oratge), a simple yet useful Android application designed to provide meteorological information to users in a convenient and accessible manner. Serving as a keystone for a broader project, this app aims to deliver accurate weather forecasts, real-time updates, and other relevant meteorological data to enhance the user's understanding and preparedness for weather conditions
+- 🤝 I’m looking for help with [MeteoApp-Oratge](https://github.com/xicotet/MeteoApp-Oratge), a simple yet useful Android application designed to provide meteorological information to users in a convenient and accessible manner. 
 
-- 🌱 I’m currently learning **Jetpack Compose and cross-platform app development**
+<!-- Serving as a keystone for a broader project, this app aims to deliver accurate weather forecasts, real-time updates, and other relevant meteorological data to enhance the user's understanding and preparedness for weather conditions -->
 
-- 📄 Know about my experiences by reading my [CV](https://drive.google.com/file/d/1xQ49M97nhlzbs9t9L6qpI9WN8-ay3Znv/view?usp=sharing)
+- 🌱 I’m currently learning **Jetpack Compose** and cross-platform app development. 
+
+- 📄 Know about my experiences by reading my [CV](https://drive.google.com/file/d/1xQ49M97nhlzbs9t9L6qpI9WN8-ay3Znv/view?usp=sharing). 
   
 - 📫 How to reach me → **contact@pablocano.org**
   
-- ⚡ Fun fact → **I love endurance running races like marathons or half marathons**
+- ⚡ Fun fact → **I love endurance running races like marathons or half marathons**. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
