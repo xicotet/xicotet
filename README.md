@@ -9,9 +9,9 @@
 
 - 📫 How to reach me → **contact@pablocano.org**
 
-- 📄 Know about my experiences by reading my CV → [https://drive.google.com/file/d/1zW64tAZ9m9uhyODxnkyOZjEbJMeeoxJ0/view?usp=sharing](https://drive.google.com/file/d/1zW64tAZ9m9uhyODxnkyOZjEbJMeeoxJ0/view?usp=sharing)
+- 📄 Know about my experiences by reading my [CV](https://drive.google.com/file/d/1zW64tAZ9m9uhyODxnkyOZjEbJMeeoxJ0/view?usp=sharing)
 
-- ⚡ Fun fact **I love endurance running races like marathons or half marathons**
+- ⚡ Fun fact → **I love endurance running races like marathons or half marathons**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
