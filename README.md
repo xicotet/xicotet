@@ -7,7 +7,7 @@
 
 <!-- Serving as a keystone for a broader project, this app aims to deliver accurate weather forecasts, real-time updates, and other relevant meteorological data to enhance the user's understanding and preparedness for weather conditions -->
 
-- 🌱 I’m currently learning **Jetpack Compose** and cross-platform app development. 
+- 🌱 I’m currently learning **Jetpack Compose** and **cross-platform app development**. 
 
 - 📄 Know about my experiences by reading my [CV](https://drive.google.com/file/d/1xQ49M97nhlzbs9t9L6qpI9WN8-ay3Znv/view?usp=sharing). 
   
