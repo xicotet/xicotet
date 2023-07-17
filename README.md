@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👀, I'm Pablo Cano</h1>
-<h3 align="center">A passionate Android Developer from Spain</h3>
 
 ![PabloCano Banner](PabloCano-banner.jpg)
 
