@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👀, I'm Pablo Cano</h1>
 
-![PabloCano Banner](PabloCano-banner.jpg)
+![PabloCano Banner](PabloCano_banner.jpg)
 
 - 🔭 I’m currently working on [ZonaBlava](https://github.com/xicotet/ZonaBlava), a cutting-edge Android app that streamlines regulated parking management by enabling users to **effortlessly acquire virtual parking tickets** on their mobile devices, eliminating the hassle of physical parking meters.
 
