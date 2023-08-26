@@ -2,7 +2,7 @@
 
 ![PabloCano Banner](PabloCano_banner.jpg)
 
-- 🔭 I’m currently working on [ZonaBlava](https://github.com/xicotet/ZonaBlava), a cutting-edge Android app that streamlines regulated parking management by enabling users to **effortlessly acquire virtual parking tickets** on their mobile devices, eliminating the hassle of physical parking meters.
+- 🔭 I’m currently working on [ZonaBlava](https://github.com/xicotet/ZonaBlava), a cutting-edge Android app that streamlines regulated parking management by enabling users to **effortlessly acquire virtual parking tickets** on their mobile devices, eliminating the hassle of searching for physical parking meters.
 
 - 🤝 I’m looking for help with [MeteoApp-Oratge](https://github.com/xicotet/MeteoApp-Oratge), a simple yet useful Android application designed to **provide meteorological information** to users in a **convenient** and **accessible** manner. 
 
