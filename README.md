@@ -1,6 +1,6 @@
-<div align="center">
-# Hi 👀, I'm Pablo Cano
-</div> 
+<h1 align="center"> Hi 👀, I'm Pablo Cano </h1>
+
+
 
 ![PabloCano Banner](PabloCano_banner.jpg)
 
