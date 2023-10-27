@@ -7,7 +7,9 @@
 
 - 🔭 I’m currently working on [ZonaBlava](https://github.com/xicotet/ZonaBlava), a cutting-edge Android app that streamlines regulated parking management by enabling users to **effortlessly acquire virtual parking tickets** on their mobile devices, eliminating the hassle of searching for physical parking meters.
 
-- 🤝 I'm looking for help with [Rally Transbetxí](https://github.com/xicotet/Transbetxi), a mobile application that enhances the experience of the annual motocultor rally in Betxí, Castellón (Spain). This app provides **live timing results** and **real-time race updates**, allowing spectators to stay connected with all the action happening on the track, witnessing the motocultores' incredible speed and skill firsthand.
+- 🤝 I'm looking for help with [Rally Transbetxí](https://github.com/xicotet/Transbetxi), a mobile application that enhances the experience of the annual motocultor rally in Betxí, Castellón (Spain). This app provides **live timing results** and **real-time race updates**.
+
+<!-- allowing spectators to stay connected with all the action happening on the track, witnessing the motocultores' incredible speed and skill firsthand. -->
 
 - 🌱 I’m currently learning **Jetpack Compose** and **cross-platform app development**. 
 
