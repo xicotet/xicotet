@@ -7,9 +7,7 @@
 
 - 🔭 I’m currently working on [ZonaBlava](https://github.com/xicotet/ZonaBlava), a cutting-edge Android app that streamlines regulated parking management by enabling users to **effortlessly acquire virtual parking tickets** on their mobile devices, eliminating the hassle of searching for physical parking meters.
 
-- 🤝 I’m looking for help with [MeteoApp-Oratge](https://github.com/xicotet/MeteoApp-Oratge), a simple yet useful Android application designed to **provide meteorological information** to users in a **convenient** and **accessible** manner. 
-
-<!-- Serving as a keystone for a broader project, this app aims to deliver accurate weather forecasts, real-time updates, and other relevant meteorological data to enhance the user's understanding and preparedness for weather conditions -->
+- 🤝 I'm looking for help with [Rally Transbetxí](https://github.com/xicotet/Transbetxi), a mobile application that enhances the experience of the annual motocultor rally in Betxí, Castellón (Spain). This app provides **live timing results** and **real-time race updates**, allowing spectators to stay connected with all the action happening on the track, witnessing the motocultores' incredible speed and skill firsthand.
 
 - 🌱 I’m currently learning **Jetpack Compose** and **cross-platform app development**. 
 
