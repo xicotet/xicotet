@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Jetpack Compose** and **cross-platform app development**. 
 
-- 📄 Know about my experiences by reading my [Curriculum Vitae](https://drive.google.com/file/d/1CA7FsFKiBmLckC3Vk8svdBeol5WxM-5h/view?usp=sharing). 
+- 📄 Know about my experiences by reading my [Curriculum Vitae](https://drive.google.com/file/d/1uC3nNBW0tAfj65U8uZ7Rfl0NXmnIu8tM/view?usp=sharing). 
   
 - 📫 How to reach me → **contact@pablocano.org**
   
