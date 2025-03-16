@@ -12,8 +12,6 @@
 <!-- , witnessing the motocultores' incredible speed and skill firsthand. -->
 
 - 🌱 I’m currently learning **iOS development with Swift** and **cross-platform app development with KMP**. 
-
-- 📄 Know about my experiences by reading my [Curriculum Vitae](https://drive.google.com/file/d/1LyWZSbMTimrV5jkPJFVOeiG4qmM4J58j/view?usp=sharing).
   
 - 📫 How to reach me → **contact@pablocano.org**
   
