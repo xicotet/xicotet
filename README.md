@@ -17,11 +17,11 @@
 
 <!-- , witnessing the motocultores' incredible speed and skill firsthand. -->
 
-- 🌱 I’m currently learning **iOS development with Swift** and **cross-platform app development with KMP**. 
+- 🌱 I’m currently learning **cross-platform app development with KMP** and **iOS development with Swift**  . 
   
 - 📫 How to reach me → **contact@pablocano.org**
   
-- ⚡ Fun fact → I love endurance running races like marathons or half marathons. 
+- ⚡ Fun fact → I love endurance running races like marathons and half marathons. 
 
 ## Connect with me:
 <p align="left">
