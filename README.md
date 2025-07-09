@@ -3,7 +3,7 @@
 </div>
 
 
-![PabloCano Banner](Logo_PabloCano.jpg)
+![PabloCano Banner](blue-banner.jpg)
 
 - 🔭 I’m currently working on [Rally Transbetxí](https://github.com/xicotet/RallyTransbetxi), a mobile application that enhances the experience of the annual motocultor rally in Betxí, Castellón (Spain). This app provides **live timing results** and **real-time race updates**, allowing spectators to stay connected with all the action happening on the track.
 <p align="center">
